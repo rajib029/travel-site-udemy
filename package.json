@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "normalize.css": "^8.0.1"
+  },
+  "name": "travel-site-udemy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajib029/travel-site-udemy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajib029/travel-site-udemy/issues"
+  },
+  "homepage": "https://github.com/rajib029/travel-site-udemy#readme",
+  "description": ""
+}
